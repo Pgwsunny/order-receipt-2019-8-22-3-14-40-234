@@ -37,5 +37,4 @@ public class OrderReceiptTest {
                 "Total Amount\t71.5"
         );
     }
-
 }
